@@ -61,4 +61,5 @@ li {
     padding: 10px 0;
     color: #000;
     font-size: 18px;
+    word-break: break-all;
 }
